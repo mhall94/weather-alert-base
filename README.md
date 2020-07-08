@@ -6,6 +6,8 @@ It has been set up using create-react-app and contains a basic structure for a r
 
 Candidates are free to build upon this project as they see fit or to not use it at all.
 
+Two environment variables have been added to the .env, you will need to register an account with [OpenWeather](https://openweathermap.org/guide) to obtain a key.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
