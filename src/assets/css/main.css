@@ -1,0 +1,27 @@
+html {
+  background-color: #fafafa;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #fafafa;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.05rem;
+  line-height: 1.2;
+  margin: 0;
+}
+
+h2 {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+#app {
+  padding: 15px;
+}
